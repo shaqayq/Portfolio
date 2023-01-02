@@ -583,8 +583,13 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  
+}
+
+.about-me {
   justify-content: center;
 }
+
 .about-img {
   border-radius: 40%;
   width: 87%;
