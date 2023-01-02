@@ -42,8 +42,8 @@ Before attempting to get a copy of this, you should know(have) how to do the fol
 
 👤 **Shaqayq**
 
-- GitHub: [@githubhandle](https://github.com/Shaqayq)
-- LinkedIn: [@Linkedin](https://www.linkedin.com/in/shaqayq-darwazi/)
+- GitHub: [@shaqayq](https://github.com/Shaqayq)
+- LinkedIn: [@Shaqayq Darwazi](https://www.linkedin.com/in/shaqayq-darwazi/)
 
 
 
