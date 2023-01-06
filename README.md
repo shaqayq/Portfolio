@@ -14,7 +14,7 @@
 
 
 ## Live Demo 
-- See live demo [here](https://shaqayq.github.io/My-Portfolio/)
+- See live demo [here](https://shaqayq.github.io/Portfolio/)
 
 ## Getting Started
 
